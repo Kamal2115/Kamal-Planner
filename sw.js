@@ -1,10 +1,10 @@
-const CACHE_NAME = "kamal-planner-shell-v8";
+const CACHE_NAME = "kamal-planner-shell-v9";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./manifest.webmanifest",
-  "./icon-192.png",
-  "./icon-512.png"
+  "./icons/icon-192.png",
+  "./icons/icon-512.png"
 ];
 
 self.addEventListener("install", event => {
