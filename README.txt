@@ -25,7 +25,7 @@ Planning and file features
 - GATE syllabus, editable subjects and topics, timetable, daily checklist, roadmap phases, and progress history
 - Java foundation targets with saved checkboxes from 11–14 November 2026, before the DSA schedule begins on 15 November
 - 54 topic-wise Java coding exercises across syntax, operators, conditions, loops, methods, arrays, strings, classes, collections, and complexity; each has difficulty, prep date, saved status, search, filters, and topic progress
-- Dated GATE + Java DSA study calendar from 15 November 2026 through 31 January 2027, with a recurring daily timetable and CSV export
+- Dated GATE + Java DSA study calendar from 15 November 2026 through 31 January 2027, with CSV export; question practice begins 23 November with a 45-minute morning PYQ block (up to 5 questions per day, up to 10 in Sunday timed sets) and one evening DSA coding question
 - Adaptive GATE timetable and roadmap: marking any syllabus topic complete removes it from future slots, shifts remaining topics and subject targets forward, and refreshes the projected first-pass date; the study slot used today is not double-booked
 - Dedicated COA first pass from 6–12 December covering ISA/addressing, ALU, control units, memory/cache, I/O/interrupts/DMA, and pipelining; timed PYQ checkpoints and final revision are scheduled in January
 - Dedicated Operating Systems first pass from 27 December–2 January covering processes, threads/IPC, synchronization, deadlocks, CPU/I/O scheduling, memory/virtual memory, and file systems; timed PYQ checkpoints and final revision are scheduled in January
