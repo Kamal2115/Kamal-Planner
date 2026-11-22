@@ -1,4 +1,4 @@
-const CACHE_NAME = "kamal-planner-shell-v21";
+const CACHE_NAME = "kamal-planner-shell-v22";
 const APP_SHELL = [
   "./",
   "./index.html",

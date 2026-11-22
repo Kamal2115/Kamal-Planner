@@ -32,7 +32,7 @@ Planning and file features
 - GATE PYQ page for GATE 2027, organized by IIT Madras, with links to its official CS syllabus, paper pattern, downloads, and notifications
 - Previous-year official CSE papers and answer keys for 2025 and 2026, plus the official archive for older years; the 2027 paper will be linked from IIT Madras after the exam
 - Direct link to GateOverflow’s topic-wise GATE PYQ tests and topic-wise reference books (https://github.com/GATEOverflow/GO-PDFs/releases/tag/gatecse-2027), alongside quick in-app topic checks and a scored subject sampler; in-app quiz questions are original practice, while official GATE PDFs remain linked as full papers
-- Filtered GATE PYQ practice page with 529 question pages confidently matched to the official revised GATE 2027 CS and General Aptitude syllabus; each retained paper/year/question links to its exact curated PDF page, with per-question status and automatic topic filtering; all unmatched and out-of-syllabus pages and their saved question statuses are removed
+- Filtered GATE PYQ practice page with 529 question pages confidently matched to the official revised GATE 2027 CS and General Aptitude syllabus; each retained paper/year/question links to its exact curated PDF page, with per-question status and assignments that unlock only from the date each topic is marked complete; unmatched and out-of-syllabus pages and their saved question statuses are removed
 - Phone install page with a locally generated QR code for the saved HTTPS website link
 - Per-task reminder times with browser notifications for tasks still incomplete at the scheduled time
 - A day-by-day Java DSA topic and linked LeetCode/GFG practice question from 15 November 2026 through 31 January 2027
