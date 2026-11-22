@@ -31,7 +31,8 @@ Planning and file features
 - Dedicated Operating Systems first pass from 27 December–2 January covering processes, threads/IPC, synchronization, deadlocks, CPU/I/O scheduling, memory/virtual memory, and file systems; timed PYQ checkpoints and final revision are scheduled in January
 - GATE PYQ page for GATE 2027, organized by IIT Madras, with links to its official CS syllabus, paper pattern, downloads, and notifications
 - Previous-year official CSE papers and answer keys for 2025 and 2026, plus the official archive for older years; the 2027 paper will be linked from IIT Madras after the exam
-- Direct link to GateOverflow’s topic-wise GATE PYQ tests, alongside quick in-app topic checks and a scored subject sampler; in-app quiz questions are original practice, while official GATE PDFs remain linked as full papers
+- Direct link to GateOverflow’s topic-wise GATE PYQ tests and topic-wise reference books (https://github.com/GATEOverflow/GO-PDFs/releases/tag/gatecse-2027), alongside quick in-app topic checks and a scored subject sampler; in-app quiz questions are original practice, while official GATE PDFs remain linked as full papers
+- Separate GATE PYQ practice page with all 1,680 questions from the attached subject-wise PDFs (2007–2026); questions with a reliable topic match appear automatically when that syllabus topic is complete, while the remaining questions are listed under Needs topic review; each question has a saved status, search, and exact PDF page link; 377 clips without a reliable subject tag are also available in the separate Needs Review PDF
 - Phone install page with a locally generated QR code for the saved HTTPS website link
 - Per-task reminder times with browser notifications for tasks still incomplete at the scheduled time
 - A day-by-day Java DSA topic and linked LeetCode/GFG practice question from 15 November 2026 through 31 January 2027
